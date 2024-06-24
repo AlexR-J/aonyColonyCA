@@ -1,4 +1,4 @@
-# antColonyCA
+# Ant Colony GA
 Ant colony optimization algorithm created for courseowork
 
 REQUIREMENTS
